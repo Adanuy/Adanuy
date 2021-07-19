@@ -18,7 +18,7 @@ LinkedIn: https://linkedin.com/in/josé-leandro-<br>
 Site: coming soon<br>
 
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adanuy/adanuy/blob/output/github-contribution-grid-snake.svg)
 
 
   
@@ -33,8 +33,6 @@ Site: coming soon<br>
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=black&logo=react&logoColor=61DBFB)
 <br>
 <br>
-
-![Snake animation](https://github.com/adanuy/adanuy/blob/output/github-contribution-grid-snake.svg)
 
  <div>
   <a href="https://github.com/adanuy">
