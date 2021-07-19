@@ -13,12 +13,13 @@
 
 ### 📬 Contact
 
-GitHub: https://github.com/adanuy<br>
-LinkedIn: linkedin.com/in/josé-leandro-<br>
+GitHub: https://github.com/Adanuy<br>
+LinkedIn: https://linkedin.com/in/josé-leandro-<br>
 Site: coming soon<br>
 
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
