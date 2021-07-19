@@ -18,7 +18,8 @@ LinkedIn: linkedin.com/in/josé-leandro-<br>
 Site: coming soon<br>
 
 
-### <b>:brain: &nbsp;Learning</b></summary><br/>
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
